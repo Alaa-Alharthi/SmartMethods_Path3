@@ -1,2 +1,2 @@
-# SmartMethod_Path3
-This repository contains all the tasks of the third path (AI ) from Smart Methods' summer training
+# Task 1
+This is the first task of the AI path which is creating a tutorial explaining the installation steps of ROS on Ubuntu
