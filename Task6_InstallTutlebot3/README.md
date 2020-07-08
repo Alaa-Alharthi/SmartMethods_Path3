@@ -1,2 +1,2 @@
-This task is about installing tutlebot3 as well as turtulebot3 simulation package,
+This task is about installing turtlebot3 as well as turtlebot3 simulation package,
 then launching a simulation file. 
